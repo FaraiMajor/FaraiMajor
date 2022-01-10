@@ -1,4 +1,4 @@
-### Hi there, I'm Farai - aka [codeSTACKr][website] 👋 
+### Hi there, I'm Farai - aka Major 👋 
 
 [![Github Follow](https://img.shields.io/github/followers/FaraiMajor?style=for-the-badge)](https://github.com/FaraiMajor)
 
@@ -13,9 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="fitznet.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="FaraiMajor | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="FaraiMajor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="FaraiMajor | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/faraimutukumira/]
+[<img align="left" alt="FaraiMajor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/faraimajor/]
 
 <br />
 
@@ -40,3 +39,18 @@
 
 
 <br />
+
+<details>
+<summary>Github Stats</summary>
+
+![FaraiMajor's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaraiMajor&theme=dracula)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaraiMajor&layout=compact&theme=dracula)
+
+</details>
+
+
+
+
+---
