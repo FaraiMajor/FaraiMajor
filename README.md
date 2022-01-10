@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="FaraiMajor | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/faraimutukumira/]
-[<img align="left" alt="FaraiMajor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/faraimajor/]
+[<img align="left" alt="FaraiMajor | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FaraiMajor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -40,17 +40,19 @@
 
 <br />
 
-<details>
-<summary>Github Stats</summary>
+
 
 ![FaraiMajor's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaraiMajor&theme=dracula)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaraiMajor&layout=compact&theme=dracula)
 
-</details>
 
 
 
 
 ---
+
+<!-- LINKS -->
+[linkedin]:https://www.linkedin.com/in/faraimutukumira/
+[instagram]: https://www.instagram.com/faraimajor/
