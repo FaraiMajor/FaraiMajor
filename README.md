@@ -4,18 +4,12 @@
 
 ## I'm a Student, Developer, and a Friend!!
 
-- 🔭 I' m current a member of TTP Web Dev camp!!
+- 🔭 Member of Tech Talent Pipeline!!
 - 🎓 I’m enrolled at Brooklyn College studying Information Systems
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn new tech and Master the ones I know
 - ⚡ Fun fact: I love to draw and play chess
 
-### Connect with me:
-
-[<img align="left" alt="FaraiMajor | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="FaraiMajor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -44,6 +38,12 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaraiMajor&layout=compact&theme=dracula)
+
+### Connect with me:
+
+[<img align="left" alt="FaraiMajor | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FaraiMajor's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 
 
 
