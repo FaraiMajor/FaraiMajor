@@ -2,7 +2,7 @@
 
 [![Github Follow](https://img.shields.io/github/followers/FaraiMajor?style=for-the-badge)](https://github.com/FaraiMajor)
 
-## I'm a Student, Developer, and a Friend!!
+## I Like to CODE!
 
 - 🔭 Member of Tech Talent Pipeline!!
 - 🎓 I’m enrolled at Brooklyn College studying Information Systems
