@@ -2,14 +2,7 @@
 
 [![Github Follow](https://img.shields.io/github/followers/FaraiMajor?style=for-the-badge)](https://github.com/FaraiMajor)
 
-## I Like to CODE!
-
-- 🔭 Member of Tech Talent Pipeline!!
-- 🎓 I’m enrolled at Brooklyn College studying Information Systems
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn new tech and Master the ones I know
-- ⚡ Fun fact: I love to draw and play chess
-
+## I Like to EAT - CODE - SLEEP!
 
 ### Languages and Tools:
 
