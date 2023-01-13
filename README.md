@@ -24,6 +24,7 @@
 
 
 ![FaraiMajor's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaraiMajor&show_icons=true&theme=dracula)
+[![FaraiMajor's's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaraiMajor)](https://github.com/faraimajor/github-readme-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaraiMajor&layout=compact&theme=dracula)
