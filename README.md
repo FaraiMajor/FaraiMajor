@@ -23,9 +23,9 @@
 <br />
 
 
-![FaraiMajor's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaraiMajor&show_icons=true&theme=dracula)
+![FaraiMajor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FaraiMajor&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaraiMajor&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FaraiMajor&layout=compact&theme=dracula)
 
 ### Connect with me:
 
