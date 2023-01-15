@@ -1,6 +1,7 @@
 ### Hi there, I'm Farai - aka Major 👋 
 
-## EAT - CODE - SLEEP!
+# EAT - CODE - SLEEP!
+Software Developer and lifelong technology enthusiast.
 
 ### Languages and Tools:
 
@@ -18,10 +19,10 @@
 
 <div align="center"> 
 <a href="https://github.com/faraimajor/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faraimajor&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Farai Major's Language stats" />
+<img width=270 height = 200 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faraimajor&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Farai Major's Language stats" />
 </a>
 <a href="https://github.com/faraimajor/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-sigma-five.vercel.app/api?username=faraimajor&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Farai Major's's Github stats" />
+<img width=300 height=200 src="https://github-readme-stats-sigma-five.vercel.app/api?username=faraimajor&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Farai Major's's Github stats" />
 </a>
 </div>
 
