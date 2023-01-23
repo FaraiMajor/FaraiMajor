@@ -28,16 +28,7 @@ Software Developer and lifelong technology enthusiast.
 
 
 <br/>
-<!-- Social button 2 -->
-<!-- Light Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=me#gh-light-mode-only">
-<img src="https://img.shields.io/twitter/follow/me?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
-</a>
-<!-- Dark Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=twitter#gh-dark-mode-only">
-<img src="https://img.shields.io/twitter/follow/me?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
-</a>
-&nbsp;
+
 <!-- Social button 3 -->
 <!-- Light Mode -->
 <a href="https://faraimajor.com/">
