@@ -1,6 +1,5 @@
 ### Hi there, I'm Farai - aka Major 👋 
 
-### EAT - CODE - SLEEP!
 Software Developer and lifelong technology enthusiast.
 
 ### Languages and Tools:
