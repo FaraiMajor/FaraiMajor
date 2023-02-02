@@ -1,4 +1,4 @@
-### Hi there, I'm Farai - aka Major 👋 
+### Hi there, I'm Farai 👋 
 
 Software Developer and lifelong technology enthusiast.
 
