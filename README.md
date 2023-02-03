@@ -16,7 +16,7 @@ Software Developer and lifelong technology enthusiast.
 
 <br />
 
-<div align="left"> 
+<div align="center"> 
 <a href="https://github.com/faraimajor/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faraimajor&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Farai Major's Language stats" />
 </a>
