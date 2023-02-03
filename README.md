@@ -28,9 +28,9 @@
 
 <table cellpadding=0>
   <tr style="padding: 0">
-<td><img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=faraimajor&theme=dark&show_icons=true&locale=en&layout=compact" alt="faraimajor" /></td>
+<td valign="top"><img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=faraimajor&theme=dark&show_icons=true&locale=en&layout=compact" alt="faraimajor" /></td>
 
-<td>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=faraimajor&theme=dark&show_icons=true&locale=en" alt="faraimajor" /></td>
+<td valign="top">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=faraimajor&theme=dark&show_icons=true&locale=en" alt="faraimajor" /></td>
    </tr>
 </table>
 
