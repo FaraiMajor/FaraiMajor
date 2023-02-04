@@ -25,14 +25,16 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  
 </div>
-
+<!-- 
 <table>
-  <tr style="padding: 0">
-<td><img  height=205 src="https://github-readme-stats.vercel.app/api/top-langs?username=faraimajor&theme=dark&show_icons=true&locale=en&layout=compact" alt="faraimajor" /></td>
+  <tr style="padding: 0"> -->
+  <div style="display: flex; flex-direction: row;">
+<img  height=205 src="https://github-readme-stats.vercel.app/api/top-langs?username=faraimajor&theme=dark&show_icons=true&locale=en&layout=compact" alt="faraimajor" />
 
-<td>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=faraimajor&theme=dark&show_icons=true&locale=en" alt="faraimajor" /></td>
-   </tr>
-</table>
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=faraimajor&theme=dark&show_icons=true&locale=en" alt="faraimajor" />
+</div>
+  <!--    </tr>
+</table> -->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faraimajor&theme=dark" alt="faraimajor" /></p>
   
