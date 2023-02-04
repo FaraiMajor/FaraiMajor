@@ -29,9 +29,9 @@
 <table>
   <tr style="padding: 0">
   
-<td><img width="49.6%" src="https://github-readme-stats.vercel.app/api/top-langs?username=faraimajor&theme=dark&show_icons=true&locale=en&layout=compact" alt="faraimajor" /></td>
+<td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=faraimajor&theme=dark&show_icons=true&locale=en&layout=compact" alt="faraimajor" /></td>
 &nbsp;
- <td><img width="49.6%" src="https://github-readme-stats.vercel.app/api?username=faraimajor&theme=dark&show_icons=true&locale=en" alt="faraimajor" /></td>
+ <td align="center"><img width="85%" src="https://github-readme-stats.vercel.app/api?username=faraimajor&theme=dark&show_icons=true&locale=en" alt="faraimajor" /></td>
      </tr>
 </table>
 
