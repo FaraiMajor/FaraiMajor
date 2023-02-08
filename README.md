@@ -38,7 +38,14 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faraimajor&theme=dark"/></a>
 </p>
+
+ <a href= "https://github-profile-trophy.vercel.app/?username=faraimajor&theme=onedark" /></a>
   
+  <div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=faraimajor&theme=onedark)
+  
+  </div>
   
 
 
