@@ -43,7 +43,7 @@
   
   <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=faraimajor&theme=onedark)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=faraimajor&theme=onedark&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars)
   
   </div>
   
