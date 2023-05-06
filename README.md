@@ -35,9 +35,9 @@
      </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faraimajor&theme=dark"/></a>
-</p>
+</p> -->
 
  <a href= "https://github-profile-trophy.vercel.app/?username=faraimajor&theme=onedark" /></a>
   
